@@ -1,0 +1,5 @@
+{{#user}}
+Name: Vishal Rajkumar Sangole
+Skills: HTML, CSS, JS, ReactJS, Tailwind CSS,sass, Styled components,firebase, java, nodejs, express, mongobd
+Email: vishalsangole.scoe.it@gmail.com
+{{/user}}
